@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gagarinspaceman/travel.git/static/css/main.7b9d8008.css",
+    "main.js": "/gagarinspaceman/travel.git/static/js/main.eabf6233.js",
+    "index.html": "/gagarinspaceman/travel.git/index.html",
+    "main.7b9d8008.css.map": "/gagarinspaceman/travel.git/static/css/main.7b9d8008.css.map",
+    "main.eabf6233.js.map": "/gagarinspaceman/travel.git/static/js/main.eabf6233.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b9d8008.css",
+    "static/js/main.eabf6233.js"
+  ]
+}
